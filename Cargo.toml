@@ -1,6 +1,6 @@
 [package]
 name = "peek"
-version = "0.1.0"
+version = "0.0.0"
 authors = ["RoloEdits <RoloEdits@gmail.com>"]
 description = "CLI tool that records system reported values of a program running and outputs them to JSON or CSV"
 catagories = ["profile", "benchmark", "cli", "tool", "terminal"]
